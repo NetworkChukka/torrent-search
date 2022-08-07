@@ -141,7 +141,7 @@ See [LICENSE](LICENSE) for more information.
 
     "language": "language.json",
 
-    "apiLink": "https://torrents-api.ryukme.repl.co/api" 
+    "apiLink": "https://chukka-api.herokuapp.com/" 
     }
     ```
     </details>

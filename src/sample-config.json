@@ -27,5 +27,5 @@
 
     "language": "language.json",
 
-    "apiLink": "https://torrents-api.ryukme.repl.co/api"
+    "apiLink": "https://chukka-api.herokuapp.com/"
 }
