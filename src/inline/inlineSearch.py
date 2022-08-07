@@ -140,6 +140,6 @@ def queryMessageContent(userId, item, torrentSite):
 
     msg += f"\n\n<b>Magnet Link: </b><code>{item['magnet']}</code>" if 'magnet' in item else ''
     msg += f"\n\n<b>Torrent Link: </b>{item['torrent']}" if 'torrent' in item else ''
-    msg += "\n\n🔥<b>via @TorrentHuntBot</b>"
+    msg += "\n\n🔥<b>via @torrentsrh_bot</b>"
 
     return msg
